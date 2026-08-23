@@ -4,7 +4,8 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Star%20Light%20Line.gif" width="100%">
+##
+
 
 ```java
           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀            public class Dev {  
@@ -32,5 +33,3 @@
   </p>
 
   ##
-
-<p align="center"> <img width="48%" src="https://github-terminal-stats-card.vercel.app/api/card?username=victorylapdev" alt="Terminal Dashboard" /> <img width="48%" src="https://ssr-contributions-svg.vercel.app/_/victorylapdev?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" alt="Contribution Graph" /> </p>
