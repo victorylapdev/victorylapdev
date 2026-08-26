@@ -1,28 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&width=900&lines=Hello+My+name+is+Vik;I+am+from+Brazil;I'm+a+Systems+Development;Welcome!" alt="Typing SVG" />
-  </a>
-</div>
-
-##
-
-
-```java
-          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀            public class Dev {  
-          ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀              String name = "Vik";
-            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⣀⣀        String business = "SEC Tech & Full-stack developer";
-            ⠙⢷⣶⣄⡀⠀⠀⠀⠀⠀⢀⣀⣀⣀⡀⠀⢀⡀⣰⣿⡿⠁        String[] tech = {
-⠀            ⣸⣿⣿⣿⣦⠀⠀⠀⠀⠀⠉⠿⠿⣿⣶⣿⣿⡿⠛⠁             "Java", "Python",
-⠀            ⠈⠻⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠈⠈⠉⠻⠁⠀⠀              "JavaScript", "Wireshark",
-⠀⠀            ⢀⣿⣿⣿⣿⠀⢀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀               "Nmap", "Metasploit"
-⠀⠀⠀           ⠈⠻⣿⣿⣷⣾⣷⡾⠀⣀⣤⣶⣶⣶⣶⣤⣄⠀           };
-⠀⠀⠀⠀⠀           ⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠋⠑           boolean coffee = true; // essential
-⠀⠀⠀⠀⠀⠀           ⢹⠟⠛⠉⠉⠙⠻⡟⠁⠀⠈⠁⠀⠀⠀            void status() {
-⠀⠀            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                System.out.println(name + " | " + business);
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀           ⠀⠀⠀⠀⠀⠀⠀              }
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                      }
-```
-
+<img width="1920" height="477" alt="Programming 𐙚 Tech Life" src="https://github.com/user-attachments/assets/103a1d55-6de6-4fdc-80c4-edb209f986b5" />
 
 
 <div align="center" style="display: inline_block"><br>
