@@ -1,4 +1,5 @@
-<img width="1920" height="477" alt="Programming 𐙚 Tech Life" src="https://github.com/user-attachments/assets/103a1d55-6de6-4fdc-80c4-edb209f986b5" />
+<img width="1920" height="630" alt="Programming 𐙚 Tech Life" src="https://github.com/user-attachments/assets/2a35fb88-0369-4308-9a92-e48e08af1291" />
+
 
 
 <div align="center" style="display: inline_block"><br>
@@ -8,4 +9,5 @@
     </a>
   </p>
 
-  ##
+
+
