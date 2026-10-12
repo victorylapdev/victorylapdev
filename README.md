@@ -16,28 +16,21 @@
 ## 🌸 ♡ ⋆。˚❀♡ ⋆。 ˚❀ . 𝒲hoiam
 
 ```text
-import java.util.List;
-
-public class Vitoria {
-
-    private final String nome = "Vitória";
-    private final String cargo = "Developer Software";
-    private final List<String> stack = List.of("HTML", "CSS", "JavaScript", "GSAP", "Three.js");
-    );
-    private int nivelDeCafe = 3;
-
-    static class CafeAcabouException extends RuntimeException {
-        CafeAcabouException() {
-            super("☕ Erro: o café acabou! Reabasteça antes de continuar.");
-        }
-    }
-    public void programar(String tarefa) {
-        if (nivelDeCafe <= 0) {
-            throw new CafeAcabouException();
-        }
-        nivelDeCafe--;
-        System.out.println("💻 Programando: " + tarefa + " (café restante: " + nivelDeCafe + ")");
-    }
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⡴⢲⡄⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀import java.util.List;
+⠀⠀⠀⠀⠀⢀⡞⠀⠀⡇⠀⢀⡴⠋⠁⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀public class Vitoria {
+⠀⠀⠀⠀⠀⣸⠁⠀⠀⡇⣠⠟⠀⠀⠀⣼⣠⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣿⠀⢠⢤⡿⠃⣀⠀⢀⡞⠉⠁⠀⠀⠈⠙⠶⡄⠀⠀⠀⠀⠀⠀⠀  private final String nome = "Vitória";
+⠀⠀⠀⠀⠀⣻⣰⡏⣼⢁⡴⠋⣰⠋⠀⠀⠀⠀⠀⠀⠀⠀⠹⡄⣀⡀⠀⠀⠀⠀  private final String cargo = Desenvolvedora de Sistemas";
+⠀⠀⠀⢀⡾⠋⠉⠁⠀⠙⠁⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡈⢷⠀⠀⠀⠀  private int nivelDeCafe = 3;
+⠀⠀⠀⣼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⢀⣧⡾⠁⠀⠀⠀   
+⠀⠀⠀⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⣾⠃⠀⠀⠀⠀⠀    }
+⠀⠀⠀⣹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠁⠀⠀⡀⠀⠀⢰⡾⠋⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢻⡇⣀⡀⠀⠺⣿⠇⠀⣀⣤⣄⣀⣠⣬⣥⣤⠾⠛⠁⠀⠀⠀⠀⠀⠀public void programar(String tarefa)⠀{
+⠀⠀⠀⠀⠉⠛⠓⠂⠤⠤⠖⠊⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  nivelDeCafe--;
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀𖦹 ׂ 𓈒 ೀ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀System.out.printIn("Programando:" + tarefa + "(café restante: " + nivelDeCafe + ")");
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    }
+                                     }                              
 ```
 
 
